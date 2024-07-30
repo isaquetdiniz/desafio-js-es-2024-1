@@ -1,0 +1,29 @@
+{
+  "name": "desafio-js-es-2024-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20.16.0",
+    "npm": ">=8.19.3"
+  },
+  "scripts": {
+    "start": "ts-node main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaquetdiniz/desafio-js-es-2024-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaquetdiniz/desafio-js-es-2024-1/issues"
+  },
+  "homepage": "https://github.com/isaquetdiniz/desafio-js-es-2024-1#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
